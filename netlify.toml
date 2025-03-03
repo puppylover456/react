@@ -1,4 +1,4 @@
-[build]
+yyy [build]
   base    = ""
   publish = "fixtures/dom/build"
   command = "yarn build --type=UMD_DEV && cd fixtures/dom/ && yarn && yarn build"
